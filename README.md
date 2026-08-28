@@ -12,7 +12,7 @@ const me = {
   role:      "Web & Python Dev",
   focus:     ["UI/UX", "Design Website", "Web Performance"],
   currently: "building things that feel as good as they look",
-  contact:   "zosinz69@email.com",
+  contact:   "s6704022612382@kmutnb.ac.th",
 };
 ```
 
@@ -33,16 +33,7 @@ const me = {
 
 ---
 
-### projects
 
-| project | description | stack |
-|---------|-------------|-------|
-|
-|
-
----
-
-### stats
 
 <div align="center">
 
